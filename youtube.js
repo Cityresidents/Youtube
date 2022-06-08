@@ -34,9 +34,9 @@ const DEFAULT_OPTIONS = {
   notAvailableIcon: 'multiply.circle.fill',
   notAvailableIconColor: '#FF0000',
   notAvailableStyle: 'alert',
-  errorContent: '检测失败，请重试',
-  errorIcon: '',
-  errorIconColor: '',
+  errorContent: '𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗳𝗮𝗶𝗹𝗲𝗱',
+  errorIcon: 'arrow.clockwise.circle.fill',
+  errorIconColor: '#FF0000',
   errorStyle: 'error',
 }
 
