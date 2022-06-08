@@ -25,8 +25,8 @@
 const BASE_URL = 'https://www.youtube.com/premium'
 
 const DEFAULT_OPTIONS = {
-  title: '𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 ( 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 )',
-  availableContent: '支持 YouTube Premium，地区：#REGION_FLAG# #REGION_NAME#',
+  title: '𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻',
+  availableContent: '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 ➠ #REGION_FLAG# #REGION_NAME#',
   availableIcon: '',
   availableIconColor: '',
   availableStyle: 'good',
