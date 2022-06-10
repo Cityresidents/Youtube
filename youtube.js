@@ -25,7 +25,7 @@
 const BASE_URL = 'https://www.youtube.com/premium'
 
 const DEFAULT_OPTIONS = {
-  title: '𝗬𝗼𝘂𝘁𝘂𝗯𝗿 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 𝗨𝗻𝗹𝗼𝗰𝗸 𝗱𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻',
+  title: '𝗬𝗼𝘂𝘁𝘂𝗯𝗿 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 ( 𝗘𝘅𝗮𝗺𝗶𝗻𝗲 )',
   availableContent: '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 ➠ #REGION_FLAG# #REGION_NAME#',
   availableIcon: 'play.rectangle.fill',
   availableIconColor: '#FF0000',
