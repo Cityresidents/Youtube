@@ -26,15 +26,15 @@ const BASE_URL = 'https://www.youtube.com/premium'
 
 const DEFAULT_OPTIONS = {
   title: '𝗬𝗼𝘂𝘁𝘂𝗯𝗿 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 ( 𝟮𝟬𝟮𝟯/𝟬𝟯/𝟬𝟵 )',
-  availableContent: '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗣𝗿𝗲𝗺𝗶𝘂𝗺  ➠  #REGION_FLAG# #REGION_NAME#',
+  availableContent: '支持 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗣𝗿𝗲𝗺𝗶𝘂𝗺  ➠  #REGION_FLAG# #REGION_NAME#',
   availableIcon: 'play.circle.fill',
   availableIconColor: '#FF0000',
   availableStyle: 'good',
-  notAvailableContent: '𝗡𝗼𝘁 𝗦𝘂𝗽𝗽𝗼𝗿𝘁𝗲𝗱 𝗣𝗿𝗲𝗺𝗶𝘂𝗺',
+  notAvailableContent: '不支持 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗣𝗿𝗲𝗺𝗶𝘂𝗺',
   notAvailableIcon: 'multiply.circle.fill',
   notAvailableIconColor: '#FF0000',
   notAvailableStyle: 'alert',
-  errorContent: '𝗗𝗲𝘁𝗲𝗰𝘁 𝗔𝗻𝗼𝗺𝗮𝗹𝗶𝗲𝘀',
+  errorContent: '检测失败，请重试',
   errorIcon: 'arrow.clockwise.circle.fill',
   errorIconColor: '#FF0000',
   errorStyle: 'error',
