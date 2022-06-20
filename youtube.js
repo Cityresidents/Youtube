@@ -25,7 +25,7 @@
 const BASE_URL = 'https://www.youtube.com/premium'
 
 const DEFAULT_OPTIONS = {
-  title: '𝗬𝗼𝘂𝘁𝘂𝗯𝗿 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 解锁检测 (𝟮𝟬𝟮𝟯/𝟬𝟯/𝟬𝟵)',
+  title: '𝗬𝗼𝘂𝘁𝘂𝗯𝗿 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 检测 ( 𝟮𝟬𝟮𝟯/𝟬𝟯/𝟬𝟵 )',
   availableContent: '支持 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗣𝗿𝗲𝗺𝗶𝘂𝗺  ➠  #REGION_FLAG# #REGION_NAME#',
   availableIcon: 'play.circle.fill',
   availableIconColor: '#FF0000',
